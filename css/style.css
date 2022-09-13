@@ -25,6 +25,7 @@ img{
     border-style: dashed;
 }
 div{
+    box-sizing: content-box;
     min-height: 125px;
     border: solid 3px #FFFFFF;
     padding: 20px;
